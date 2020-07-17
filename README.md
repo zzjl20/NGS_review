@@ -1,5 +1,1 @@
-# hello-world
-TEST
-Hello Human!
-I am new here. Just want to settle it down. 
-Time is money. Knowledge is money. Money is money.
+# [Review of Clinical Next-Generation Sequencing](https://www.archivesofpathology.org/doi/full/10.5858/arpa.2016-0501-RA)
